@@ -1,0 +1,26 @@
+_repo: The-Lenni-Lenape-or-Delaware-Indians_68075
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Walker, Edwin Robert
+    gutenberg_agent_id: '54589'
+    url: http://www.gutenberg.org/2009/agents/54589
+description: ''
+gutenberg_issued: '2022-05-14'
+identifiers:
+  gutenberg: '68075'
+language: en
+pgterms:marc904: https://archive.org/details/lennilenape00walk
+pgterms:marc905: 20220419172636walker
+pgterms:marc906: '1917'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :The Unionist Gazette Association, Printers,1917.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Lenni Lenape: or Delaware Indians'
+url: http://www.gutenberg.org/ebooks/68075
